@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "846303793314",
+    "project_id": "songapp-44687",
+    "storage_bucket": "songapp-44687.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846303793314:android:ae18cb2cc3237ee567c7fb",
+        "android_client_info": {
+          "package_name": "com.example.song_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846303793314-2rgja5nt01ddnl8tgeoi4k16b34ktcd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCShCMZVIYOVrsiHOBfPTcRnOL7R3cvbsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846303793314-2rgja5nt01ddnl8tgeoi4k16b34ktcd4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
